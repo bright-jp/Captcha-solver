@@ -1,6 +1,6 @@
 # CAPTCHA Solver  
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
 
 [Bright Data's CAPTCHA Solver](https://brightdata.jp/products/web-unlocker/captcha-solver) を使用すると、ユーザーエミュレーション、フィンガープリント管理、強力なプロキシインフラストラクチャにより、reCAPTCHA、hCaptcha、PX Captcha、GeeTest などの CAPTCHA を簡単に解決できます。  
 当社の CAPTCHA Solver は、[Scraping Browser](https://brightdata.jp/products/scraping-browser) および [Web Unlocker](https://brightdata.jp/products/web-unlocker) の組み込み機能です。
